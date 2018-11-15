@@ -1,4 +1,4 @@
-I'm not well verse in Github. the index file is in views/contacts/index.php
+I'm not well versed in Github. the index file is in views/contacts/index.php
 
 ###################
 What is CodeIgniter
